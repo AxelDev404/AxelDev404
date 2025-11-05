@@ -34,7 +34,7 @@
 - ⚙️ Experience with **Django REST Framework**, **Next.js**, and **React**
 - ☁️ Currently exploring **AWS Cloud Compute Essentials (EC2, IAM, VPC)**
 - 💡 Interested in open source projects that solve **real-world problems**
-- 📫 Reach me at: [LinkedIn]([www.linkedin.com/in/alexandru-stefan-apetroae-42a6a7265](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)]) | [Email](mailto:apetroaealexandru88@gmail.com)
+- 📫 Reach me at: [LinkedIn]([www.linkedin.com/in/alexandru-stefan-apetroae-42a6a7265]) | [Email](mailto:apetroaealexandru88@gmail.com)
 
 ---
 
