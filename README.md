@@ -21,9 +21,9 @@
 
 ### 📈 GitHub Stats
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexApetroae&show_icons=true&theme=react)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelDev404&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexApetroae&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelDev404&layout=compact&theme=react)
 
 ---
 
@@ -33,8 +33,7 @@
 - ⚙️ Experience with **Django REST Framework**, **Next.js**, and **React**
 - ☁️ Currently exploring **AWS Cloud Compute Essentials (EC2, IAM, VPC)**
 - 💡 Interested in open source projects that solve **real-world problems**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/tuo-profilo/) | [Email](mailto:tuamail@example.com)
+- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/alexandru-stefan-apetroae-42a6a7265) | [Email](mailto:apetroaealexandru88@gmail.com)
 
 ---
 
-> "Code should be written for humans first, and for machines second." 🧩
