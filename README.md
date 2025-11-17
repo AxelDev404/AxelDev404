@@ -30,11 +30,11 @@
 
 ### 🚀 About Me
 
-- 🧠 I love designing backend architectures that are **clean, secure, and scalable**
-- ⚙️ Experience with **Django REST Framework**, **Next.js**, and **React**
-- ☁️ Currently exploring **AWS Cloud Compute Essentials (EC2, IAM, VPC)**
-- 💡 Interested in open source projects that solve **real-world problems**
-- 📫 Reach me at: [LinkedIn]([www.linkedin.com/in/alexandru-stefan-apetroae-42a6a7265]) | [Email](mailto:apetroaealexandru88@gmail.com)
+- > I love designing backend architectures that are **clean, secure, and scalable**
+- > Experience with **Django REST Framework**, **Next.js**, and **React**
+- > Currently exploring **AWS Cloud Compute Essentials (EC2, IAM, VPC)**
+- > Interested in open source projects that solve **real-world problems**
+- > Reach me at: [LinkedIn]([www.linkedin.com/in/alexandru-stefan-apetroae-42a6a7265]) | [Email](mailto:apetroaealexandru88@gmail.com)
 
 ---
 
