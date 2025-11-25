@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - > I love designing backend architectures that are **clean, secure, and scalable**
 - > Experience with **Django REST Framework**, **Next.js**, and **React**
