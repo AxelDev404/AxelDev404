@@ -20,14 +20,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelDev404&show_icons=true&theme=react)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelDev404&layout=compact&theme=react)
-
----
-
 ### About Me
 
 - > I love designing backend architectures that are **clean, secure, and scalable**
