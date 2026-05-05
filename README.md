@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexandru Stefan Apetroae
+# 👋 Hi, I'm Alexandru
 
 💻 **IT Manager & Junior Full-Stack Developer**  
 🌍 Based in Italy | Passionate about clean code, automation & cloud computing (AWS EC2, Lambda, S3)  
