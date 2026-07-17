@@ -2,7 +2,7 @@
 
 💻 **IT Manager & Junior Full-Stack Developer**  
 🌍 Based in Italy | Passionate about clean code, automation & cloud computing (AWS EC2, Lambda, S3)  
-📚 Currently learning: Cloud Architecture , Django advanced features , HTB Accademy , Offensive Security , Vulnerability Assessment 
+📚 Currently learning: Cloud Architecture , Django advanced features , HTB Accademy , Offensive Security , Vulnerability Assessment and Computer Sience and Software Engeeniring
 
 ---
 
@@ -26,6 +26,7 @@
 
 - > I love designing backend architectures that are **clean, secure, and scalable**
 - > Experience with **Django REST Framework**, **Spring Boot** ,**Next.js**, and **React**
+- > Studing Computer Sience and Software Engeeniring at Univeristy
 - > Currently exploring **AWS Cloud Compute Essentials (EC2, IAM, VPC)**
 - > Interested in open source projects that solve **real-world problems**
 - > Reach me at: [LinkedIn]([www.linkedin.com/in/alexandru-stefan-apetroae-42a6a7265]) | [Email](mailto:apetroaealexandru88@gmail.com)
