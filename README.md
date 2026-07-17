@@ -2,7 +2,7 @@
 
 💻 **IT Manager & Junior Full-Stack Developer**  
 🌍 Based in Italy | Passionate about clean code, automation & cloud computing (AWS EC2, Lambda, S3)  
-📚 Currently learning: Cloud Architecture , Django advanced features , HTB Accademy , Offensive Security , Vulnerability Assessment and Computer Sience and Software Engeeniring
+📚 Currently learning: Cloud Architecture , Django advanced features , HTB Accademy , Offensive Security , Vulnerability Assessment , Computer Sience and Software Engeeniring
 
 ---
 
